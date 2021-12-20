@@ -108,6 +108,3 @@ console.log('------------------------------------------------')
 for(i=0; i<pAequorArray.length-1; i++){
   console.log(pAequorArray[i])
 }
-
-
-//random note
